@@ -8,14 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <h1>Meow. Hi Juliet :)</h1>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+        <h2>Also, hi Mike.  Deploying React on AWS is pretty simple; so I simply need to practice general React concepts to be prepared for the proof of concept this weekend.</h2>
       </header>
     </div>
   );
